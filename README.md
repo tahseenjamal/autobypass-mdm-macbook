@@ -7,5 +7,5 @@ Program that have to be downloaded and run in the Rescue Terminal to bypass the 
 3. Run below command
 
 
-curl https://github.com/tahseenjamal/autobypass-mdm-macbook/autobypass-mdm.sh -o test.sh && chmod +x ./test.sh && ./test.sh
+curl https://raw.githubusercontent.com/tahseenjamal/autobypass-mdm-macbook/main/autobypass-mdm.sh -o autobypass-mdm.sh && chmod +x ./autobypass-mdm.sh && ./autobypass-mdm.sh
 
